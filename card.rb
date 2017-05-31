@@ -22,6 +22,4 @@ class Card
       self.card[1] = 0
     end
   end
-
-
 end
